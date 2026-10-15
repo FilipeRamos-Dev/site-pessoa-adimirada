@@ -1,0 +1,29 @@
+
+
+#ASS{
+    border: 20px solid maroon;
+    margin: 10px;
+    width: 305px;
+}
+
+#Intro{
+    border: 10px groove maroon;
+    margin: 5px;
+    width: 200px;
+}
+
+#img01:hover{
+    width: 220px;
+    margin: 15px;
+}
+
+#img02{
+    border: 20px groove gray;
+    padding: 15px;
+}
+
+body{
+    width: 50%;
+    margin: auto;
+}
+
